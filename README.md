@@ -8,4 +8,4 @@
 - 🎨 Whenever I have the opportunity, I also create visual designs in addition to software development.
 -->
 
-![CSS](https://www.pngegg.com/en/png-eecqj)
+![CSS](https://e7.pngegg.com/pngimages/188/673/png-clipart-cascading-style-sheets-css3-bootstrap-valid-blue-angle-thumbnail.png)
