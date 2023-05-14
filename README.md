@@ -6,11 +6,6 @@
 🎨 Whenever I have the opportunity, I also create visual designs in addition to software development.   
 
 
-### Connect with me:
-
-
-
-
 ### Languages and Tools:
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Vscode" width="60" height="60">
