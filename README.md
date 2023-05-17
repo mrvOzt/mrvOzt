@@ -22,6 +22,7 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="60" height="60">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="60" height="60">    
 <p align="center">
+  &nbsp;&nbsp;
   <img src="./img/coding.gif" alt="gif" width="220" height="124">    
 </p>
 
