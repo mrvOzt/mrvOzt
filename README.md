@@ -7,8 +7,8 @@
 
 ### Connect To Me
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/merve-%C3%B6zt%C3%BCrk-b3864a215/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/merve-%C3%B6zt%C3%BCrk-b3864a215/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/merve-%C3%B6zt%C3%BCrk-b3864a215/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/merve-%C3%B6zt%C3%BCrk-b3864a215/#gh-light-mode-only)
 
 ### Languages and Tools:
 
