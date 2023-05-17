@@ -5,6 +5,10 @@
 🎮 Although I have gained many skills since I started my career, there are still many areas that I need to develop alongside the advancing technologies. Thanks to my passion for learning, I am becoming more specialized in various areas every day.  
 🎨 Whenever I have the opportunity, I also create visual designs in addition to software development.   
 
+### Connect To Me
+
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -18,5 +22,6 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="60" height="60">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="60" height="60">    
  
+
 
 
