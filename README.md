@@ -5,10 +5,7 @@
 🎮 Although I have gained many skills since I started my career, there are still many areas that I need to develop alongside the advancing technologies. Thanks to my passion for learning, I am becoming more specialized in various areas every day.  
 🎨 Whenever I have the opportunity, I also create visual designs in addition to software development.   
 
-### Connect To Me
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/merve-%C3%B6zt%C3%BCrk-b3864a215/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/merve-%C3%B6zt%C3%BCrk-b3864a215/#gh-dark-mode-only)
+<br>
 
 ### Languages and Tools:
 
@@ -21,6 +18,16 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60" height="60">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="60" height="60">  
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="60" height="60">
+
+<br>
+<br>
+<br>
+
+### Connect To Me
+
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/merve-%C3%B6zt%C3%BCrk-b3864a215/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/merve-%C3%B6zt%C3%BCrk-b3864a215/#gh-dark-mode-only)
+
 <br>
 <br>
 <br>
@@ -28,7 +35,7 @@
 <br>
 
  <p align="center">
-    <img src="./img/kroppa-digital.gif" alt="gif" width="220" height="124">    
+    <img src="./img/anime-hacking.gif" alt="gif" width="498" height="280">    
   </p>
 
 
