@@ -19,16 +19,17 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="CSharp" width="60" height="60">
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="60" height="60"> 
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="60" height="60">
-<img align="left" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="60" height="60">
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="60" height="60">    
+<img align="left" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="60" height="60">  
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="Mysql" width="60" height="60">
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
-&nbsp;&nbsp;
-&nbsp;&nbsp;
-<div align="">
-<p align="center">
-  <img src="./img/coding.gif" alt="gif" width="220" height="124">    
-</p>
+ <p align="center">
+    <img src="./img/kroppa-digital.gif" alt="gif" width="220" height="124">    
+  </p>
 
 
 
