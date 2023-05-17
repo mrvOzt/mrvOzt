@@ -25,8 +25,8 @@
 
 &nbsp;&nbsp;
 &nbsp;&nbsp;
+<div align="">
 <p align="center">
-  
   <img src="./img/coding.gif" alt="gif" width="220" height="124">    
 </p>
 
