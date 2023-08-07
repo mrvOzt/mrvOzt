@@ -24,7 +24,7 @@
 <br>
 
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="PostgreSql" width="197" height="60">
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Ppstman" width="197" height="60">
 
 <br>
 <br>
